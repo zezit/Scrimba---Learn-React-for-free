@@ -13,3 +13,6 @@
 [submodule "React3_Dark-Mode"]
 	path = React3_Dark-Mode
 	url = https://github.com/zezit/React3_Dark-Mode.git
+[submodule "React3-Notes-App"]
+	path = React3-Notes-App
+	url = https://github.com/zezit/React3-Notes-App
