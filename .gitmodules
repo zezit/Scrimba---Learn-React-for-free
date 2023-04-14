@@ -16,3 +16,6 @@
 [submodule "React3-Notes-App"]
 	path = React3-Notes-App
 	url = https://github.com/zezit/React3-Notes-App
+[submodule "Tenzies-Project"]
+	path = Tenzies-Project
+	url = https://github.com/zezit/Tenzies-Project
