@@ -7,3 +7,6 @@
 [submodule "React1_Travel-Journal"]
 	path = React1_Travel-Journal
 	url = https://github.com/zezit/React1_Travel-Journal
+[submodule "React2_Meme-Generator"]
+	path = React2_Meme-Generator
+	url = https://github.com/zezit/React2_Meme-Generator.git
