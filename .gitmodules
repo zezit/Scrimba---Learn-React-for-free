@@ -4,3 +4,6 @@
 [submodule "React1_Airbnb"]
 	path = React1_Airbnb
 	url = https://zezit@github.com/zezit/React1_Airbnb.git
+[submodule "React1_Travel-Journal"]
+	path = React1_Travel-Journal
+	url = https://github.com/zezit/React1_Travel-Journal
