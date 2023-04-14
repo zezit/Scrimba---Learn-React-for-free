@@ -10,3 +10,6 @@
 [submodule "React2_Meme-Generator"]
 	path = React2_Meme-Generator
 	url = https://github.com/zezit/React2_Meme-Generator.git
+[submodule "React3_Dark-Mode"]
+	path = React3_Dark-Mode
+	url = https://github.com/zezit/React3_Dark-Mode.git
