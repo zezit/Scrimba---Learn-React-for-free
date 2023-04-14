@@ -1,5 +1,5 @@
 # Scrimba - Learn React for free
-- [**Introduction Project**](https://github.com/zezit/react-course/tree/1aca7b028fbaf00131c570986a2f03fd40fc71b7): A simple introductory project for learning the basics of React, including setting up a development environment..
+- [**Introduction Project**](https://github.com/zezit/React3_Dark-Mode): A simple introductory project for learning the basics of React, including setting up a development environment..
 - [**Digital Business Card**](https://github.com/zezit/React1_Digital-Business-Card-): Project of a digital business card using the React framework. The goal is to create a single-page application that showcases your personal or professional information in a visually appealing and interactive way. 
 - [**Airbnb**](https://github.com/zezit/React1_Airbnb): Project of a single-page application using the React framework that showcases rental properties in a visually appealing and interactive way.
 - [**Travel Journal**](https://github.com/zezit/React1_Travel-Journal): Project of a single-page application using the React framework to create a travel journal.
