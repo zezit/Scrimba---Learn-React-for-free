@@ -1,3 +1,6 @@
 [submodule "react-course"]
 	path = react-course
 	url = https://github.com/zezit/react-course.git
+[submodule "React1_Airbnb"]
+	path = React1_Airbnb
+	url = https://zezit@github.com/zezit/React1_Airbnb.git
