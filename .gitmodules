@@ -19,3 +19,6 @@
 [submodule "Tenzies-Project"]
 	path = Tenzies-Project
 	url = https://github.com/zezit/Tenzies-Project
+[submodule "Quizzical-Project"]
+	path = Quizzical-Project
+	url = https://github.com/zezit/Quizzical-Project.git
